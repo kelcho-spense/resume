@@ -48,6 +48,12 @@
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "July 2023",
         "description": "Graduated with First Class Honours"
+      },
+      {
+        "school": "Bridge College",
+        "degree": "Diploma in  Computer Engineering",
+        "graduated": "December 2018",
+        "description": "Graduated with First Class Honours"
       }
     ],
     "work": [
