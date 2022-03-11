@@ -89,12 +89,7 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "Chat App(Nextjs+Moralis)",
-        "category": "Web 3.0",
-        "image": "ChatMetaverse.jpg",
-        "url": "https://metaverse-challenge-kd5twono6-kelcho-spense.vercel.app/"
-      },
+      
       {
         "title": "Covid-19-Tracker(React + Firebase)",
         "category": "SPR",
