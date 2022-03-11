@@ -94,7 +94,13 @@
         "category": "Web 3.0",
         "image": "ChatMetaverse.jpg",
         "url": "https://metaverse-challenge-kd5twono6-kelcho-spense.vercel.app/"
-      }     
+      },
+      {
+        "title": "Covid-19-Tracker(React + Firebase)",
+        "category": "SPR",
+        "image": "covid19tracker.png",
+        "url": "https://covid-19-tracker-1d3c3.web.app/"
+      }   
       
     ]
   },
