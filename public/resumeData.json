@@ -95,7 +95,14 @@
         "category": "SPR",
         "image": "covid19tracker.jpg",
         "url": "https://covid-19-tracker-1d3c3.firebaseapp.com/"
-      }   
+      } ,
+      {
+        
+        "title": "Real-Estate-App(Nextjs + RapidApi)",
+        "category": "SSR",
+        "image": "realestate.jpg",
+        "url": "https://real-estate-app-flame.vercel.app/"
+      }  
       
     ]
   },
