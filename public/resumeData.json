@@ -102,7 +102,13 @@
         "category": "SSR",
         "image": "realestate.jpg",
         "url": "https://real-estate-app-flame.vercel.app/"
-      }  
+      },
+      {
+        "title": "NFT MARKETPLACE(ReactNative + tailwind css)",
+        "category": "Mobile App",
+        "image": "Nftmarketplace.png",
+        "url": "https://nft-marketplace-showcase-e44e3.web.app"
+      } 
       
     ]
   },
